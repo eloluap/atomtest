@@ -1,3 +1,3 @@
 "# atomtest"
 
-This is our README file, say important things here, like I do
+This is our README file, say important things here, like I do :)
